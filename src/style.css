@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+.el {
+  width: 10px;
+  height: 10px;
+  border: 0.5px solid grey;
+}
+.chess-board{
+  display: flex;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+}
+.fill {
+  background-color: grey;
+}
